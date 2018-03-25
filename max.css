@@ -1,0 +1,52 @@
+/* #body{
+    background-color:red;
+} */
+body{
+    background-color:#b41b25;
+}
+#wrapper{
+    background-color:darkgray;
+    margin:0 auto;
+}
+#header{
+    background-color:pink;
+    text-align: center;
+}
+#head-main{
+    height:400px;
+    background-color: royalblue;
+}
+#main{
+    opacity: 1;
+    background-color:black;
+    
+}
+#past {
+    height:200px;
+    background-color:slateblue;
+}
+#future{
+    color:gold;
+    padding:10px;
+}
+
+
+
+
+h1{
+    font-size:175%;
+    color:purple;
+}
+h2{
+    color:blue;
+    font-size:150%;
+}
+h3{
+    color:indigo;
+    font-size: 135%;
+}
+h4{
+    color:violet;
+    font-size: 125%;
+    padding:5px;
+}
