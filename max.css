@@ -30,7 +30,10 @@ body{
     padding:10px;
 }
 
-
+#head-main img{
+    width:200px;
+    padding:20px;
+}
 
 
 h1{
